@@ -115,6 +115,9 @@ public SqmSubQuery(
 ```
 
 ### 결과
+- hibernate commit history
+  - https://github.com/hibernate/hibernate-orm/commit/36bc892d62d5a33fd5e60f44cebbd31ad026a4b0
+
 - 이슈 해결됨으로 처리됨
 
 <img width="476" alt="image" src="https://github.com/user-attachments/assets/f6802bb4-fcbb-49f7-ab27-3fb6dd7d5337">
