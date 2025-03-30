@@ -122,3 +122,6 @@ public SqmSubQuery(
 
 <img width="476" alt="image" src="https://github.com/user-attachments/assets/f6802bb4-fcbb-49f7-ab27-3fb6dd7d5337">
 
+### 추가 
+- sqm 이란? : https://vladmihalcea.com/hibernate-sqm-semantic-query-model/
+
